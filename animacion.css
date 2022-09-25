@@ -1,0 +1,137 @@
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    
+}
+.phone{
+    position: relative;
+    width: 18rem;
+    height: 30rem;
+    border: solid 6px rgb(61, 61, 61);
+    border-radius: 2rem;
+    box-shadow: 5px 5px 10px 4px rgb(163, 163, 163);
+    background-color: rgba(146, 204, 252, 0.376);
+    
+}
+.layer-1{
+    position: absolute;
+    z-index: 1;
+}
+.layer-2{
+    position: absolute;
+    z-index: 2;
+}
+.layer-3{
+    position: absolute;
+    z-index: 3;
+    background-color: #a0764f;
+    box-shadow: 1px 5px 9px #49331c;
+    height: 20rem;
+    width: 10rem;
+    border-radius: 1rem;
+    bottom: 0;
+    right: 22%;
+}
+.layer-4{
+    position: absolute;
+    z-index: 4;
+}
+.layer-5{
+    position: absolute;
+    z-index: 5;
+    width: 10rem;
+    height: 14rem;
+    background-color: #a0764f;
+    box-shadow: 1px 5px 9px #49331c;
+    bottom: 0;
+    border-radius: 1rem;
+}
+.layer-6{
+    position: absolute;
+    z-index: 6;
+}
+.layer-7{
+    position: absolute;
+    z-index: 7;
+    width: 10rem;
+    height: 10rem;
+    background-color: #a0764f;
+    box-shadow: 1px 5px 9px #49331c;
+    border-radius: 1rem;
+    bottom: 0;
+    right: 0;
+}
+.layer-8{
+    position: absolute;
+    z-index: 9;
+    height: 4.5rem;
+    width: 4.5rem;
+    background-color: #60bd49;
+    bottom: 0;
+    right:75%;
+    border-radius: 20% 50% 50% 24%;
+    /* box-shadow: 4px 0px 9px #51993f; */
+}
+.layer-9{
+    position: absolute;
+    z-index: 8;
+    height: 5.5rem;
+    width: 5rem;
+    background-color: #317e2f;
+    bottom: 0;
+    right:37%;
+    border-radius:50%;
+    /* box-shadow: 4px 0px 9px #51993f; */
+}
+.layer-10{
+    position: absolute;
+    z-index: 10;
+    height: 4.5rem;
+    width: 4.5rem;
+    background-color: #60bd49;
+    bottom: 0;
+    right:0%;
+    border-radius:50%  70% 28% 10%;
+    /* box-shadow: -5px 0px 9px #51993f; */
+}
+.pasto4{
+    position: absolute;
+    height: 3.5rem;
+    width: 3.5rem;
+    background-color: #60bd49;
+    bottom: 0;
+    right: 60%;
+    border-radius: 45%;
+}
+.pasto1{
+    position: absolute;
+    height: 3.5rem;
+    width: 4rem;
+    bottom: 0;
+    background-color: #60bd49;
+    border-radius: 1% 50% 50% 2% ;
+    right: -35%;
+}
+.pasto2{
+    position: absolute;
+    height: 4.2rem;
+    width: 4.2rem;
+    background-color: #317e2f;
+    border-radius: 50% 50% 0 30%;
+    bottom: 0;
+    right: 62%;
+}
+.pasto3{
+    position: absolute;
+    height: 4.2rem;
+    width: 4.2rem;
+    background-color: #317e2f;
+    border-radius: 50% 50% 30% 0;
+    bottom: 0;
+    right:-40%;
+}
