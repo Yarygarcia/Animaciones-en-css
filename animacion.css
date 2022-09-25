@@ -139,7 +139,7 @@ html{
     position: absolute;
     height: 1rem;
     width: 1rem;
-    background-color: aliceblue;
+    background-color: #ebebeb;
     border-radius: 0 0 1rem 2rem;
 
 }
@@ -149,7 +149,7 @@ html{
     width: 1.2rem;
     bottom: 1;
     left: 8%;
-    background-color: aliceblue;
+    background-color: #ebebeb;
     border-radius: 0 0 4rem 2rem;
 }
 .ni3ve3{
@@ -158,7 +158,7 @@ html{
     width: 1.6rem;
     bottom: 1;
     left: 18%;
-    background-color: aliceblue;
+    background-color: #ebebeb;
     border-radius: 0 0 2rem 2rem;
 }
 .ni3ve4{
@@ -167,7 +167,7 @@ html{
     width: 1.6rem;
     bottom: 1;
     left: 27%;
-    background-color: aliceblue;
+    background-color: #ebebeb;
     border-radius: 0 0 2rem 2rem;
 }
 .ni3ve5{
@@ -176,7 +176,7 @@ html{
     width: 3rem;
     bottom: 1;
     left: 39%;
-    background-color: aliceblue;
+    background-color: #ebebeb;
     border-radius: 0 0 2rem 2rem;
 }
 .ni3ve6{
@@ -185,7 +185,7 @@ html{
     width: 0.5rem;
     bottom: 1;
     left: 66%;
-    background-color: aliceblue;
+    background-color: #ebebeb;
     border-radius: 0 0 2rem 2rem;
 }
 .ni3ve7{
@@ -194,7 +194,7 @@ html{
     width: .7rem;
     bottom: 1;
     left: 69%;
-    background-color: aliceblue;
+    background-color: #ebebeb;
     border-radius: 0 0 2rem 0rem;
 }
 .ni3ve8{
@@ -203,15 +203,15 @@ html{
     width: .7rem;
     bottom: 1;
     left: 75%;
-    background-color: aliceblue;
+    background-color: #ebebeb;
     border-radius: 0 0 2rem 0rem;
 }
-.ni3ve8{
+.ni3ve9{
     position: absolute;
     height: .7rem;
     width: 2.5rem;
     bottom: 1;
     left: 75%;
-    background-color: aliceblue;
+    background-color: #ebebeb;
     border-radius: 0 5rem 2rem 1rem;
 }
