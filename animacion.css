@@ -135,3 +135,83 @@ html{
     bottom: 0;
     right:-40%;
 }
+.ni3ve1{
+    position: absolute;
+    height: 1rem;
+    width: 1rem;
+    background-color: aliceblue;
+    border-radius: 0 0 1rem 2rem;
+
+}
+.ni3ve2{
+    position: absolute;
+    height: 3rem;
+    width: 1.2rem;
+    bottom: 1;
+    left: 8%;
+    background-color: aliceblue;
+    border-radius: 0 0 4rem 2rem;
+}
+.ni3ve3{
+    position: absolute;
+    height: 0.7rem;
+    width: 1.6rem;
+    bottom: 1;
+    left: 18%;
+    background-color: aliceblue;
+    border-radius: 0 0 2rem 2rem;
+}
+.ni3ve4{
+    position: absolute;
+    height: 1rem;
+    width: 1.6rem;
+    bottom: 1;
+    left: 27%;
+    background-color: aliceblue;
+    border-radius: 0 0 2rem 2rem;
+}
+.ni3ve5{
+    position: absolute;
+    height: 0.6rem;
+    width: 3rem;
+    bottom: 1;
+    left: 39%;
+    background-color: aliceblue;
+    border-radius: 0 0 2rem 2rem;
+}
+.ni3ve6{
+    position: absolute;
+    height: 1.9rem;
+    width: 0.5rem;
+    bottom: 1;
+    left: 66%;
+    background-color: aliceblue;
+    border-radius: 0 0 2rem 2rem;
+}
+.ni3ve7{
+    position: absolute;
+    height: 1.3rem;
+    width: .7rem;
+    bottom: 1;
+    left: 69%;
+    background-color: aliceblue;
+    border-radius: 0 0 2rem 0rem;
+}
+.ni3ve8{
+    position: absolute;
+    height: .9rem;
+    width: .7rem;
+    bottom: 1;
+    left: 75%;
+    background-color: aliceblue;
+    border-radius: 0 0 2rem 0rem;
+}
+.ni3ve8{
+    position: absolute;
+    height: .7rem;
+    width: 2.5rem;
+    bottom: 1;
+    left: 75%;
+    background-color: aliceblue;
+    border-radius: 0 5rem 2rem 1rem;
+}
